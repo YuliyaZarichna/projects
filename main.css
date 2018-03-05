@@ -1,0 +1,28 @@
+html, body {
+	height: 100%;
+}
+
+.imageContainer, .imageContainer2 {
+	min-height: 600px;
+	width: 100%;
+
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.imageContainer {
+	background-image: url(pexels-photo-265824.jpeg);
+}
+
+.imageContainer2 {
+	background-image: url(pexels-photo-355234.jpeg);
+}
+
+body, h1, h2 {
+	font-family: "Raleway", sans-serif;
+}
+
+p {
+	line-height: 2
+}
